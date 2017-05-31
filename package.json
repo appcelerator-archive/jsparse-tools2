@@ -1,0 +1,27 @@
+{
+  "name": "jsparse-tools2",
+  "description": "Tools for parsing raw javascript source code.",
+  "license": "MIT",
+  "author": {
+    "name": "Christian Sullivan",
+    "email": "cs@euforic.co"
+  },
+  "maintainers": [
+	{"name": "Ewan Harris", "email": "eharris@axway.com"},
+  ],
+  "dependencies": {
+    "acorn": "^5.0.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "should": "*"
+  },
+  "homepage": "https://github.com/appcelerator/jsparse-tools2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/appcelerator/jsparse-tools2.git"
+  },
+  "keywords": [],
+  "optionalDependencies": {},
+  "version": "1.0.0"
+}
