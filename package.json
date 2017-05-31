@@ -7,7 +7,7 @@
     "email": "cs@euforic.co"
   },
   "maintainers": [
-	{"name": "Ewan Harris", "email": "eharris@axway.com"},
+	{"name": "Ewan Harris", "email": "eharris@axway.com"}
   ],
   "dependencies": {
     "acorn": "^5.0.3"
